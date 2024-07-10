@@ -43,10 +43,7 @@
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/wazinsky/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-
-![Snake animation](https://github.com/sadmorello/sadmorello/blob/output/github-contribution-grid-snake.svg)
-
-<br></div>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
