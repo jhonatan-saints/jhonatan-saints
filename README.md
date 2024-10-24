@@ -1,12 +1,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C80036&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF5E1&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Jhonatan+Santos;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF5E1&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!;My+name+is+Jhonatan+Santos;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
 ## 💬 About me
-### - I'm currently 23 years old and work as a software engineer and accessibility expert at [Mitel](https://www.mitel.com).
+### - I'm currently 23 years old and work as a software engineer and accessibility specialist at [Mitel](https://www.mitel.com).
 
 <img hight="300" width="600" alt="GIF" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
@@ -16,7 +16,7 @@
 
 ### - Hobbies : 
 - ✨ Gaming Addict
-- ✨ Watching Anime
+- ✨ Warhammer 40k
 - ✨ DnD
 
 </br>
