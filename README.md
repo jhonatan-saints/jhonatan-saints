@@ -15,7 +15,7 @@
 - ✨ Game development
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ World of Warcraft
 - ✨ Warhammer 40k
 - ✨ DnD
 
