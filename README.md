@@ -22,20 +22,6 @@
 </br>
 </br>
 
-## 👨‍💻 Knowledge
-</br>
-
-- 🌐 Languages and Frameworks :
-  
-[![My Skills](https://skillicons.dev/icons?i=java,angular,nodejs,vue,ts,css,docker,html,git,js,jquery,php,aws)](https://skillicons.dev)
-</br>
-
-- 🔨 Tools :
-
-[![My Skills](https://skillicons.dev/icons?i=github,bitbucket,eclipse,gitlab,idea,jenkins,linux,windows,xd)](https://skillicons.dev)
-
-</br>
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=jhonatan-saints&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
