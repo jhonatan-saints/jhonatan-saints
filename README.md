@@ -10,9 +10,9 @@
 
 <img hight="300" width="600" alt="GIF" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
-### - Learning :
-- ✨ UX/UI
-- ✨ Game development
+### - Current Learning :
+- ✨ Cloud development
+- ✨ Offensive cybersecurity (OffSec)
 
 ### - Hobbies : 
 - ✨ World of Warcraft
