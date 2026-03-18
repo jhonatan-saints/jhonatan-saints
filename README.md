@@ -54,7 +54,6 @@
 ![npm](https://img.shields.io/badge/npm-6DA55F?style=for-the-badge&logo=npm&logoColor=white&color=000)
 ![Markdown](https://img.shields.io/badge/markdown-C.svg?style=for-the-badge&logo=markdown&color=000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-C.svg?style=for-the-badge&logo=intellijidea&color=000000&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23E34F26.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
