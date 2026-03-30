@@ -6,7 +6,7 @@
 <br>
 
 ## 💬 About me
-### - I'm currently 25 years old with over 5+ year of experience in software engineering, I'm currently working as a software engineer II and accessibility specialist at [Mitel](https://www.mitel.com)
+### - I'm currently 25 years old with over 5+ year of experience in software engineering and currently working as a mide-level software engineer and accessibility specialist at [Mitel](https://www.mitel.com)
 
 <img hight="300" width="600" alt="GIF" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
