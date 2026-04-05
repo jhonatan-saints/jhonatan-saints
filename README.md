@@ -13,7 +13,7 @@ Currently working at [Mitel](https://www.mitel.com), with 5+ years of experience
 
 ### - Current Learning :
 - Cloud development
-- Offensive cybersecurity (OffSec)
+- Offensive cybersecurity
 
 ### - Hobbies : 
 - World of Warcraft
