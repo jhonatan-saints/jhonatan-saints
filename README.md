@@ -6,18 +6,19 @@
 <br>
 
 ## 💬 About me
-### I'm a 25-year-old software engineer with over 5 years of experience, currently working as a Mid-Level Software Engineer specialized in Front-End and Accessibility @ [Mitel](https://www.mitel.com)
+Software Engineer focused on building intelligent systems, developer tooling, and AI-driven workflows.  
+Currently working at [Mitel](https://www.mitel.com), with 5+ years of experience across front-end, architecture, and product engineering.
 
 <img hight="300" width="600" alt="GIF" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
 ### - Current Learning :
-- ✨ Cloud development
-- ✨ Offensive cybersecurity (OffSec)
+- Cloud development
+- Offensive cybersecurity (OffSec)
 
 ### - Hobbies : 
-- ✨ World of Warcraft
-- ✨ Warhammer 40k
-- ✨ DnD
+- World of Warcraft
+- Warhammer 40k
+- DnD
 
 </br>
 </br>
@@ -61,5 +62,12 @@
 </div>
 
 <br>
+
+## Featured Project
+
+### Patent Workbench
+AI-powered system for structured patent creation, leveraging REG-based prompt engineering and local-first architecture.
+
+[View Repository](https://github.com/jhonatan-saints/patent-workbench)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005fb8&height=120&section=footer"/>
