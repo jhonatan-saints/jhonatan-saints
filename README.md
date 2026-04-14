@@ -12,19 +12,19 @@ Software Engineer focused on **building intelligent systems and developer toolin
 
 <img height="350" width="550" alt="GIF" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
-### Current Learning
-
-- LLM systems & RAG
-- Scalable architecture
-- Offensive security
-- UX & developer experience
-
 ### Core Expertise
 
 - Angular & TypeScript architecture
 - Accessibility (WCAG 2.2)
 - Design systems & UI libraries
 - Full-stack (C#, Node)
+
+### Current Learning
+
+- LLM systems & RAG
+- Scalable architecture
+- Offensive security
+- UX & developer experience
 
 <br>
 
