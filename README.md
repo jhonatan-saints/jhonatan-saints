@@ -10,7 +10,7 @@
 
 Software Engineer focused on **building intelligent systems and developer tooling that improve how software is designed, delivered, and scaled**. Currently at [Mitel](https://www.mitel.com) working on large-scale CCaaS platforms, with 5+ years of experience across front-end engineering, system design, and product development.
 
-<img height="300" width="600" alt="GIF" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
+<img height="300" width="500" alt="GIF" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
 ### Current Learning
 
