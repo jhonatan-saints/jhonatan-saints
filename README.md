@@ -1,68 +1,40 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:302b63,100:0f0c29&height=120&section=header"/>
- 
-<img width=100% src="https://github.com/jhonatan-saints/jhonatan-saints/blob/output/github-contribution-grid-snake.svg"/>
+
+<p align="center">
+  <em>“We shape our tools, and thereafter our tools shape us.” — Marshall McLuhan</em>
+</p>
 
 </br>
 
+## About
 
-## 💬 About me
-Software Engineer focused on building intelligent systems, developer tooling, and AI-driven workflows.  
-Currently working at [Mitel](https://www.mitel.com), with 5+ years of experience across front-end, architecture, and product engineering.
+Software Engineer focused on **building intelligent systems and developer tooling that improve how software is designed, delivered, and scaled**. Currently at [Mitel](https://www.mitel.com) working on large-scale CCaaS platforms, with 5+ years of experience across front-end engineering, system design, and product development.
 
-<img hight="300" width="600" alt="GIF" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
+<img height="400" width="600" alt="GIF" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
-### - Current Learning :
-- Advanced AI Engineering
-- Cloud Development
-- Offensive Cybersecurity
-- UX/UI Design
+### Current Learning
 
-### - Hobbies : 
-- World of Warcraft
-- Warhammer 40k
-- DnD
+- LLM systems & RAG
+- Scalable architecture
+- Offensive security
+- UX & developer experience
 
-</br>
-</br>
+### Core Expertise
 
-## 🛠️ My Tools
+- Angular & TypeScript architecture
+- Accessibility (WCAG 2.2)
+- Design systems & UI libraries
+- Full-stack (C#, Node)
 
 </br>
 
-<div>
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-C.svg?style=for-the-badge&logo=sass&color=CC6699&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?logo=tailwindcss&style=for-the-badge&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/primeng-C.svg?style=for-the-badge&logo=primeng&color=DD0031&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
-![Angular](https://img.shields.io/badge/angular-C.svg?style=for-the-badge&logo=angular&color=DD0031&logoColor=white)
-![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-C.svg?style=for-the-badge&logo=vuedotjs&color=4FC08D&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361) 
-![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=FFFFFF&color=7A86B8)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=735902)
-![Docker](https://img.shields.io/badge/docker-%23430098.svg?style=for-the-badge&logo=docker&logoColor=white&color=003F8C)
-![Jenkins](https://img.shields.io/badge/jenkins-C.svg?style=for-the-badge&logo=jenkins&color=D24939&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-6DA55F?style=for-the-badge&logo=npm&logoColor=white&color=000)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23E34F26.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
-  
-</div>
+## Tech Stack
 
-<br>
+| Front-end | Back-end & Systems | DevOps & Tools |
+|----------|------------------|----------------|
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react) ![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)![TS](https://img.shields.io/badge/TS-2F74C0?style=for-the-badge&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass) | ![Node](https://img.shields.io/badge/Node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)![Python](https://img.shields.io/badge/Python-1F4361?style=for-the-badge&logo=python&logoColor=FFDB4F) ![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php) | ![Docker](https://img.shields.io/badge/Docker-003F8C?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-735902?style=for-the-badge&logo=linux&logoColor=white)![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma) |
+
+</br>
 
 ## Featured Project
 
