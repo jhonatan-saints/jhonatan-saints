@@ -3,7 +3,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF5E1&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<br>
+</br>
 
 ## 💬 About me
 Software Engineer focused on building intelligent systems, developer tooling, and AI-driven workflows.  
@@ -12,8 +12,10 @@ Currently working at [Mitel](https://www.mitel.com), with 5+ years of experience
 <img hight="300" width="600" alt="GIF" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
 ### - Current Learning :
-- Cloud development
-- Offensive cybersecurity
+- Advanced AI Engineering
+- Cloud Development
+- Offensive Cybersecurity
+- UX/UI Design
 
 ### - Hobbies : 
 - World of Warcraft
@@ -27,7 +29,7 @@ Currently working at [Mitel](https://www.mitel.com), with 5+ years of experience
 
 </br>
 
-<div align="center">
+<div>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,7 +55,6 @@ Currently working at [Mitel](https://www.mitel.com), with 5+ years of experience
 ![Jenkins](https://img.shields.io/badge/jenkins-C.svg?style=for-the-badge&logo=jenkins&color=D24939&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-6DA55F?style=for-the-badge&logo=npm&logoColor=white&color=000)
-![Markdown](https://img.shields.io/badge/markdown-C.svg?style=for-the-badge&logo=markdown&color=000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23E34F26.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
