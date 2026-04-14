@@ -1,3 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:302b63,100:0f0c29&height=120&section=header"/>
+ 
+<img width=100% src="https://github.com/jhonatan-saints/jhonatan-saints/blob/output/github-contribution-grid-snake.svg"/>
+
+</br>
+
+
 ## 💬 About me
 Software Engineer focused on building intelligent systems, developer tooling, and AI-driven workflows.  
 Currently working at [Mitel](https://www.mitel.com), with 5+ years of experience across front-end, architecture, and product engineering.
@@ -64,4 +71,4 @@ AI-powered system for structured patent creation, leveraging REG-based prompt en
 
 [View Repository](https://github.com/jhonatan-saints/patent-workbench)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005fb8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=120&section=footer"/>
