@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:302b63,100:0f0c29&height=120&section=header"/>
 
 <p align="center">
-  <em>“We shape our tools, and thereafter our tools shape us.” — Marshall McLuhan</em>
+  <em>“We shape our tools, and thereafter our tools shape us.” — Marshall McLuhan</em>.
 </p>
 
 <br>
